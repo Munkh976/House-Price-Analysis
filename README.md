@@ -10,9 +10,9 @@ An end-to-end business intelligence project analyzing residential housing market
 
 ## 📊 Dashboard Preview
 
-| Overview | Price Trends | Market Breakdown |
+| Overview | Price Trends | Sales Performance |
 |----------|-------------|-----------------|
-| ![Dashboard Page 1](1.png) | ![Dashboard Page 2](2.png) | ![Dashboard Page 3](3.png) |
+| ![Dashboard Page 1](Overview.jpg) | ![Dashboard Page 2](Price Trends.jpg) | ![Dashboard Page 3](Sales Performance.jpg) |
 
 > 📄 Full dashboard also available as [Final Dashboard.pdf](Final%20Dashboard.pdf)
 
